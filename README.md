@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kerim.I am student of Kastamonu University in Turkey.
 - 👀 I’m interested in 
-- 🌱 I’m currently learning IP in Python,basics of JAVA and I have a drone team for Teknofest in Turkey.I am designing a interface for logging of drone.
+- 🌱 I’m currently learning Data Structures Implementation at professional level.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? Mail:kerimsenturk2002@outlook.com ,LinkedIN:"kerim-şentürk-784a3220a"
 
