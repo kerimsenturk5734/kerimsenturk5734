@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Kerim.I am student of Kastamonu University in Turkey.
-- 👀 I’m interested in Java, Web, Cloud, Computer Networks...
+- 👀 I’m interested in Java, Web Programming
+- 👀 I am trying to learn new languages like GoLang and Kotlin
 - 🌱 I’m currently learning Web Service in Spring Boot and Restful Api's.
 - 📫 How to reach me ? 
 <p align="left">
