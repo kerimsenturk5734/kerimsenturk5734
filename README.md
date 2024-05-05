@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kerim.I am a Java Backend Web Developer who is studying in Turkey/Kastamonu University as a student.
 - 👀 I’m interested in Java, Web Programming
-- 👀 I am trying to learn new languages like GoLang and Kotlin
-- 🌱 I’m currently learning Web Service in Spring Boot and Restful Api's.
+- 👀 I am trying to learn new programming languages like GoLang and Kotlin
+- 🌱 I’m currently working on Web Services, Spring Boot and Restful Api's.
 - 📫 How to reach me ? 
 <p align="left">
 <a href="mailto: kerimsenturk2002@outlook.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/9840/9840614.png" height="40" width="40" /></a>
