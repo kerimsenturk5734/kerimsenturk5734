@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kerim.I am a Java Backend Web Developer who is studying in Turkey/Kastamonu University as a student.
+- 👋 Hi, I’m Kerim.I am a Java Backend Web Developer from Turkey.
 - 👀 I’m interested in Java, Web Programming
 - 👀 I am trying to learn new programming languages like GoLang and Kotlin
 - 🌱 I’m currently working on Web Services, Spring Boot and Restful Api's.
